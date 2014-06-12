@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD esearch 20060628//EN" "http://eutils.ncbi.nlm.nih.gov/eutils/dtd/20060628/esearch.dtd">
+<eSearchResult><Count>15</Count><RetMax>15</RetMax><RetStart>0</RetStart><QueryKey>1</QueryKey><WebEnv>NCID_1_486215379_130.14.18.34_9001_1402541241_77118447</WebEnv><IdList>
+<Id>23885613</Id>
+<Id>23641409</Id>
+<Id>24645561</Id>
+<Id>22172037</Id>
+<Id>21068592</Id>
+<Id>20373780</Id>
+<Id>21528027</Id>
+<Id>18085773</Id>
+<Id>16296582</Id>
+<Id>11226162</Id>
+<Id>644594</Id>
+<Id>942537</Id>
+<Id>1258228</Id>
+<Id>1117732</Id>
+<Id>5429097</Id>
+</IdList><TranslationSet/><TranslationStack>   <TermSet>    <Term>radation[All Fields]</Term>    <Field>All Fields</Field>    <Count>15</Count>    <Explode>N</Explode>   </TermSet>   <OP>GROUP</OP>  </TranslationStack><QueryTranslation>radation[All Fields]</QueryTranslation></eSearchResult>
